@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://github.com/NeaPchX2/2XHub-TH-Give-Free/files/8772354/2X.Hub.TH.txt', true))()
+loadstring(game:HttpGet('https://github.com/NeaPchX2/X2Z-Hub-BF/files/8783294/Protected.6.txt', true))()
